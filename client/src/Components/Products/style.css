@@ -1,0 +1,10 @@
+.productContainer{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.product{
+    border: 1px dashed chartreuse;
+    margin: 20px;
+    padding: 20px;
+}
